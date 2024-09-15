@@ -1,4 +1,3 @@
-// Program takes in audio and either makes the volume higher or lower
 // Modifies the volume of an audio file
 
 #include <stdint.h>
